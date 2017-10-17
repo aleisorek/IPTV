@@ -1,8 +1,8 @@
 #EXTM3U url-tvg="http://exabytetv.info/guia.xml"
-#EXTINF:-1 tvg-logo="http://exabytetv.info/img/icon.png" group-title="z-omitir",== Israel Idan+ ==
+#EXTINF:-1 tvg-logo="http://exabytetv.info/img/icon.png" group-title="z-omitir",== Israel Idan+ (local TV Headend)==
 http://streaming203.radionomy.com:80/City-Dance-Radio
 
-#EXTINF:-1,Idan+,Channel 1
+#EXTINF:-1,Idan+,Kan 11
 http://192.168.14.5:9981/stream/channel/caf02abeec7375c652119dedce67448c
 
 #EXTINF:-1,Idan+,Channel 2
@@ -19,6 +19,12 @@ http://192.168.14.5:9981/stream/channel/b03977371397be014916150149f06ef8
 
 #EXTINF:-1,Idan+,Channel 99
 http://192.168.14.5:9981/stream/channel/553d58234bd7dc58539855a92f258286
+
+#EXTINF:-1 tvg-logo="http://exabytetv.info/img/icon.png" group-title="z-omitir",== Israel Idan+ (online)==
+http://streaming203.radionomy.com:80/City-Dance-Radio
+
+#EXTINF:-1,Idan+,Channel 2 News HD
+http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.amastv.com/img/logo_amas.png" group-title="ENTRETENIMIENTO",A+
 http://romeo.exabytetv.info/exabytetv-esgratis/gc/VCJEG-1011001111000001010100011001011-ExabyteTV-holis/2141/visita-exabytetv.m3u8
