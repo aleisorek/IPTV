@@ -2,9 +2,23 @@
 #EXTINF:-1 tvg-logo="http://exabytetv.info/img/icon.png" group-title="z-omitir",== Israel Idan+ ==
 http://streaming203.radionomy.com:80/City-Dance-Radio
 
+#EXTINF:-1,Idan+,Channel 1
+http://192.168.14.5:9981/stream/channel/caf02abeec7375c652119dedce67448c
+
+#EXTINF:-1,Idan+,Channel 2
+http://192.168.14.5:9981/stream/channel/39eb5401d4db97e85f75876d77f42978
+
+#EXTINF:-1,Idan+,Channel 10
+http://192.168.14.5:9981/stream/channel/e248140248c52b9bb21123de5b49e2c0
+
+#EXTINF:-1,Idan+,Channel 23
+http://192.168.14.5:9981/stream/channel/98c776e044eecf723b3d7cd2a6e4a5a0
+
+#EXTINF:-1,Idan+,Channel 33
+http://192.168.14.5:9981/stream/channel/b03977371397be014916150149f06ef8
+
 #EXTINF:-1,Idan+,Channel 99
 http://192.168.14.5:9981/stream/channel/553d58234bd7dc58539855a92f258286
-
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.amastv.com/img/logo_amas.png" group-title="ENTRETENIMIENTO",A+
 http://romeo.exabytetv.info/exabytetv-esgratis/gc/VCJEG-1011001111000001010100011001011-ExabyteTV-holis/2141/visita-exabytetv.m3u8
